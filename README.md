@@ -26,6 +26,14 @@ This project was developed as part of the **Microsoft Elevate AICTE Internship**
 * `/Dashboard`: The `.pbix` file for local exploration.
 * `/Screenshots`: Visual evidence of the dashboard interface.
 
+## 📊 Dashboard Preview
+
+[View Live Dashboard](https://github.com/AryanAnand-ux/Global-Cybersecurity-Breach-Analytics-PowerBI)
+
+![Cybersecurity Dashboard](https://github.com/AryanAnand-ux/Global-Cybersecurity-Breach-Analytics-PowerBI/blob/main/Dashboard-Screenshot.png?raw=true)
+
+---
+
 ## 👤 Author
 **Aryan Anand** B.Tech Computer Science (2nd Year) | JUET University  
 *Microsoft Elevate AICTE Intern*
