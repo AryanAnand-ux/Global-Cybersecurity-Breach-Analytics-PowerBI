@@ -1,40 +1,36 @@
-Global Cybersecurity Breach Analytics (2004 - 2025)
-📌 Project Overview
-This project provides a comprehensive analysis of global data breaches over the last two decades. Using a dataset of over 500 major incidents, this Power BI dashboard transforms raw data into actionable security intelligence, identifying the most vulnerable sectors and the primary methods used by threat actors.
+# Global Cybersecurity Breach Analytics (2004 - 2025)
 
-🛠️ Tech Stack
-Tool: Microsoft Power BI Desktop
+## 📌 Project Overview
+This project was developed as part of the **Microsoft Elevate AICTE Internship**. It features a high-impact Power BI dashboard that analyzes over 20 years of global data breach history. The system transforms complex, "noisy" datasets into actionable security intelligence, identifying primary attack vectors and high-risk industry sectors.
 
-Data Cleaning: Power Query (M Language)
+## 🛠️ Tech Stack
+* **Analytics Tool:** Microsoft Power BI Desktop
+* **Data Processing:** Power Query (M Language) for ETL and normalization
+* **Logic & Metrics:** DAX (Data Analysis Expressions) for custom KPIs
+* **Design:** High-contrast Dark Mode UI for professional SOC (Security Operations Center) environments
 
-Analytical Logic: DAX (Data Analysis Expressions)
+## 🚀 Key Features
+* **Executive KPI Cards:** Real-time summary of Total Records Lost, Incident Counts, and Average Severity Scores.
+* **Temporal Trends:** An interactive Area Chart visualizing the escalation of data exfiltration magnitude over time.
+* **Sector Analysis:** Donut Chart highlighting the most targeted industries (Web, Government, Finance).
+* **Threat Classification:** Tree Map visualizing the primary methods used by threat actors (Hacking, Poor Security, etc.).
+* **Interactive Filtering:** Global year slicer for granular deep-dives into specific threat eras.
 
-Design: High-contrast Dark Mode UI
+## 📊 Key Insights
+* **Primary Vector:** "Hacking" remains the most frequent and impactful method of data compromise.
+* **Vulnerable Sectors:** The Web and Government sectors represent the largest percentage of major breaches.
+* **Magnitude Spike:** A significant increase in records lost is observed post-2016, indicating the rise of sophisticated ransomware.
 
-🚀 Key Features
-Interactive KPI Cards: Real-time tracking of Total Records Compromised (18.5bn+), Incident Counts, and Threat Severity.
+## 📁 Repository Structure
+* `/Data`: Raw and Cleaned CSV datasets.
+* `/Dashboard`: The `.pbix` file for local exploration.
+* `/Screenshots`: Visual evidence of the dashboard interface.
 
-Temporal Trend Analysis: An Area Chart visualizing the escalation of data exfiltration from 2004 to 2025.
+## 👤 Author
+**Aryan Anand** B.Tech Computer Science (2nd Year) | JUET University  
+*Microsoft Elevate AICTE Intern*
 
-Sector & Method Analysis: Breakdown of breaches by industry (Web, Finance, Government) and attack vector (Hacking, Poor Security, etc.).
-
-Dynamic Slicing: Global "Select Year" filter allows for granular exploration of the threat landscape.
-
-📊 Insights & Findings
-Primary Threat: Hacking is identified as the most impactful attack vector globally.
-
-Vulnerable Industries: The Web and Government sectors consistently face the highest frequency of large-scale breaches.
-
-Escalation: Data reveals a significant spike in breach magnitude post-2016, correlating with increased digital transformation and ransomware sophistication.
-
-📁 Repository Structure
-/Data: Contains the cleaned dataset (CSV).
-
-/Dashboard: The .pbix file for local exploration.
-
-/Screenshots: High-resolution images of the visual interface.
-
-👤 Author
-Aryan Anand B.Tech CSE, 2nd Year | JUET University
-
-Microsoft Elevate AICTE Internship Capstone Project
+---
+## 📜 References
+* Microsoft Elevate Internship Program Guidelines.
+* Global Data Breach Dataset (2004-2025).
