@@ -28,7 +28,7 @@ This project was developed as part of the **Microsoft Elevate AICTE Internship**
 
 ## 📊 Dashboard Preview
 
-[View Live Dashboard](https://github.com/AryanAnand-ux/Global-Cybersecurity-Breach-Analytics-PowerBI)
+[View Live Dashboard](https://github.com/AryanAnand-ux/Global-Cybersecurity-Breach-Analytics-PowerBI/blob/main/Dashboard-Screenshot.png)
 [Drive](https://drive.google.com/drive/folders/15kcNBF4eamZn1QtAJyZY_-ORvZf6f7o0)
 
 
